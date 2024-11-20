@@ -22,7 +22,7 @@ This is a solution to the [Testimonials Grid Section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/welpmoz/Testimonial-Grid-Section).
-- Live Site URL: [Live site](https://welpmoz.github.io/Social-Links-Profile/)
+- Live Site URL: [Live site](https://welpmoz.github.io/Testimonial-Grid-Section/)
 
 ## My process
 
